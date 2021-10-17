@@ -22,6 +22,6 @@ class Triangle{
             }
             count = 0;
         }
-        System.out.println(x);  //value of the first triangle number to have over five hundred divisors
+        System.out.println(x);   //value of the first triangle number to have over five hundred divisors
     }
 }
